@@ -260,3 +260,19 @@ No Record
 -   Created controllers to clear the cache
 
 <br />
+
+### Feb 4 2022
+
+<div id="february-04-2022" />
+
+**Asterki:**
+
+-   Made it so when you register automatically login
+-   Moved the redirects and rewrites to the next.config.js
+-   Re-made the entire error handling system
+-   Started making email verification page
+-   Re-wrote the emails that will be sent when verifying emails
+-   Renamed several variables and file names, so it looks more cleaner
+-   Who the hell removed data from the .gitignore file? well... removed that thing
+
+<br />
