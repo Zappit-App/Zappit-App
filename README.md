@@ -2,7 +2,7 @@
 
 ### Jan 7 2022
 
-<div id="january-07-2022" />
+<div id="07-01-2022" />
 
 **Asterki:**
 
@@ -18,7 +18,7 @@
 
 ## Jan 8 2022
 
-<div id="january-08-2022" />
+<div id="08-01-2022" />
 
 **Asterki:**
 
@@ -35,7 +35,7 @@
 
 ## Jan 9 2022
 
-<div id="january-09-2022" />
+<div id="09-01-2022" />
 
 **Asterki:**
 
@@ -56,7 +56,7 @@
 
 ## Jan 10 2022
 
-<div id="january-10-2022" />
+<div id="10-01-2022" />
 
 **Asterki:**
 
@@ -80,7 +80,7 @@
 
 ## Jan 11 2022
 
-<div id="january-11-2022" />
+<div id="11-01-2022" />
 
 **Asterki:**
 
@@ -93,7 +93,7 @@
 
 ## Jan 12 2022
 
-<div id="january-12-2022" />
+<div id="12-01-2022" />
 
 **Asterki:**
 
@@ -114,7 +114,7 @@
 
 ## Jan 13 2022
 
-<div id="january-13-2022" />
+<div id="13-01-2022" />
 
 **Asterki:**
 
@@ -135,7 +135,7 @@
 
 ## Jan 14 2022
 
-<div id="january-14-2022" />
+<div id="14-01-2022" />
 
 **Asterki:**
 
@@ -155,7 +155,7 @@
 
 ## Jan 15 2022
 
-<div id="january-15-2022" />
+<div id="15-01-2022" />
 
 **Asterki:**
 
@@ -169,7 +169,7 @@
 
 ## Jan 16 2022
 
-<div id="january-16-2022" />
+<div id="16-01-2022" />
 
 No record
 
@@ -177,7 +177,7 @@ No record
 
 ## Jan 17 2022
 
-<div id="january-17-2022" />
+<div id="17-01-2022" />
 
 **Noob:**
 
@@ -187,7 +187,7 @@ No record
 
 ## Jan 18 2022
 
-<div id="january-18-2022" />
+<div id="18-01-2022" />
 
 **Noob:**
 
@@ -197,7 +197,7 @@ No record
 
 ## Jan 19 2022
 
-<div id="january-19-2022" />
+<div id="19-01-2022" />
 
 **Asterki:**
 
@@ -212,7 +212,7 @@ No record
 
 ## Jan 20 2022
 
-<div id="january-20-2022" />
+<div id="20-01-2022" />
 
 **Asterki:**
 
@@ -222,7 +222,7 @@ No record
 
 ## Jan 21 2022
 
-<div id="january-21-2022" />
+<div id="21-01-2022" />
 
 **Asterki:**
 
@@ -232,7 +232,7 @@ No record
 
 ## Jan 22 2022 - Feb 2 2022
 
-<div id="january-22-2022" />
+<div id="22-01-2022" />
 
 No Record
 
@@ -247,7 +247,7 @@ No Record
 
 ### Feb 3 2022
 
-<div id="february-03-2022" />
+<div id="03-02-2022" />
 
 **Asterki:**
 
@@ -263,7 +263,7 @@ No Record
 
 ### Feb 4 2022
 
-<div id="february-04-2022" />
+<div id="04-02-2022" />
 
 **Asterki:**
 
