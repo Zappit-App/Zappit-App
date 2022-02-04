@@ -8,7 +8,7 @@
 
 -   Started filesystem and basic internal API
 -   Preparing language files and pages
--   Instalation of basic packages
+-   Installation of basic packages
 
 **Noob:**
 
@@ -22,10 +22,10 @@
 
 **Asterki:**
 
--   Starting making the login page, along with other icons and animations, and their respective desings
+-   Starting making the login page, along with other icons and animations, and their respective designs
 -   Started using eslint to lint the code
 -   Generated README.md
--   Lost my system due to resizing for partitions, tried installing Arch linux, succeeded, and decided to go back to Ubuntu, since I sitll managed to type apt-get when trying to write pacman
+-   Lost my system due to resizing for partitions, tried installing Arch linux, succeeded, and decided to go back to Ubuntu, since I still managed to type apt-get when trying to write pacman
 
 **Noob:**
 
@@ -39,7 +39,7 @@
 
 **Asterki:**
 
--   Finished setting up my system, cloned the repo and started working on the changes not commited
+-   Finished setting up my system, cloned the repo and started working on the changes not committed
 -   Making customizables SVG icons (using props to change colours, etc)
 -   Making error reporting system to requests
 -   Added swagger-stats
@@ -97,7 +97,7 @@
 
 **Asterki:**
 
--   Completely fiished login page, working on register page now
+-   Completely finished login page, working on register page now
 -   Setting up a redis server to cache usernames when typing on the register page
 -   Optimized code and added comments
 -   Created animations folder to make more complex animations
@@ -118,7 +118,7 @@
 
 **Asterki:**
 
--   Completely fiished login page, working on register page now
+-   Completely finished login page, working on register page now
 -   Setting up a redis server to cache usernames when typing on the register page
 -   Optimized code and added comments
 -   Created animations folder to make more complex animations
@@ -191,7 +191,7 @@ No record
 
 **Noob:**
 
--   Existencial Crisis
+-   Existential Crisis
 
 <br />
 
@@ -202,7 +202,7 @@ No record
 **Asterki:**
 
 -   Moved from redis to LevelDB
--   Fixed some errros on error handling, ironic
+-   Fixed some errors on error handling, ironic
 -   Disabled security, need to configure before working again
 -   Got a host, first live development version released, failed successfully
 
@@ -227,5 +227,36 @@ No record
 **Asterki:**
 
 -   Fixed some problems, started working on controllers to clear the cache, also made the register page actually work
+
+<br />
+
+## Jan 22 2022 - Feb 2 2022
+
+<div id="january-22-2022" />
+
+No Record
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+# February
+
+### Feb 3 2022
+
+<div id="february-03-2022" />
+
+**Asterki:**
+
+-   Verifying ReCaptcha inputs
+-   Fixed typos on this README and the code's README
+-   Fixed some stuff in the login page
+-   Made the checks actually work with cache
+-   Added some error handling to some requests
+-   Fixed a lot of stuff in the api files
+-   Created controllers to clear the cache
 
 <br />
