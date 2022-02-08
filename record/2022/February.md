@@ -31,3 +31,23 @@
 -   Who the hell removed data from the .gitignore file? well... removed that thing
 
 <br />
+
+### Feb 5 2022
+
+<div id="05-02-2022" />
+
+**Asterki:**
+
+-   I just found something that could make the server crash, it doesn't have type validity, so that means the user could send an array where a string should go and crash the server
+
+<br />
+
+### Feb 7 2022
+
+<div id="07-02-2022" />
+
+**Asterki:**
+
+-   Moved the entire project to typescript because I hate myself
+
+<br />
